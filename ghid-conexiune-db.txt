@@ -1,0 +1,16 @@
+1. instaleaza localtunnel in folderul proiectului (doar o data trebuie instalat) si apoi ruleaza cu "expo start":
+npm install -g localtunnel
+
+2. in alt terminal, ruleaza asta ca sa legi db.json de un link local cu http:
+json-server --port 3333 ./db.json --watch
+
+3. in alt terminal, ruleaza asta ca sa faci https pulicat din http local (cu ajutorul localtunnel). O sa primesti un url https dupa:
+lt --port 3333 --subdomain application-mock-server
+
+4. verifica in urlRetete.js sa fie linkul general in pasul 3 trecut corect (uneori se schimba)
+
+5. uneori nu se adauga poza (din camera), alteori nu se adauga reteta noua
+
+Docs:
+https://dsinecos.github.io/blog/How-to-call-a-locally-hosted-server-from-expo-app
+https://github.com/localtunnel/localtunnel

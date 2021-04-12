@@ -1,0 +1,336 @@
+{
+  "arrayRetete": [
+    {
+      "id": 1,
+      "numeReteta": "pizza",
+      "descriereReteta": "o reteta simpla",
+      "ingrediente": [
+        "sos",
+        "branza",
+        "coca"
+      ],
+      "pasi": [
+        "fa coca",
+        "pune la cuptor",
+        "scoate din cuptor"
+      ],
+      "poza": "file:/data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FRetete-35cf436a-d5ce-4d43-b649-342ee7cab2e5/ImagePicker/94459d9c-d181-46a1-a7ae-60790764e391.jpg"
+    },
+    {
+      "id": 2,
+      "numeReteta": "pasta",
+      "descriereReteta": "",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 1,
+      "numeReteta": "mamaliga",
+      "descriereReteta": "",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 4,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "file:/data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FRetete-35cf436a-d5ce-4d43-b649-342ee7cab2e5/ImagePicker/cce94590-dc46-4576-9022-665167483f12.jpg"
+    },
+    {
+      "id": 5,
+      "numeReteta": "Borgar",
+      "descriereReteta": "Freedum",
+      "ingrediente": [
+        "Ing1 (Cant1)"
+      ],
+      "pasi": [
+        "Pas1",
+        "Pas2",
+        "Pas3"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 6,
+      "numeReteta": "pizza 3",
+      "descriereReteta": "Descriere3",
+      "ingrediente": [
+        "Ingredient1 (Cantitate1)",
+        "Ingredient1 (Cantitate1)",
+        "Ingredient1 (Cantitate1)"
+      ],
+      "pasi": [
+        "pune la cuptop",
+        "gateste"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 7,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [
+        "Ingredient (Cantitate)",
+        "Ingredient (Cantitate)"
+      ],
+      "pasi": [
+        "",
+        ""
+      ],
+      "poza": "file:/data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FRetete-35cf436a-d5ce-4d43-b649-342ee7cab2e5/ImagePicker/9513daca-18de-413d-85d9-0294cc489b61.png"
+    },
+    {
+      "id": 8,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [
+        "Ingredient (Cantitate)",
+        "Ingredient (Cantitate)"
+      ],
+      "pasi": [
+        "",
+        ""
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 9,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [
+        "Ingredient (Cantitate)",
+        "Ingredient (Cantitate)"
+      ],
+      "pasi": [
+        "",
+        ""
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 10,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [
+        "Ingredient (Cantitate)",
+        "Ingredient (Cantitate)"
+      ],
+      "pasi": [
+        "",
+        ""
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 11,
+      "numeReteta": "Numetest",
+      "descriereReteta": "Descrieretest",
+      "ingrediente": [
+        "Ingredient1 (Cantitate1)",
+        "Ingredient2 (Cantitate2)"
+      ],
+      "pasi": [
+        "Pas1",
+        "Pas2",
+        "Pas3"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 12,
+      "numeReteta": "Numetest2",
+      "descriereReteta": "Descriere2",
+      "ingrediente": [
+        "Ingredient1 (Cantitate1)",
+        "Ingredient2 (Cantitate2)",
+        "Ingredient (Cantitate)"
+      ],
+      "pasi": [
+        "Pas1",
+        "Pas2",
+        "Pas3",
+        "F",
+        "F2"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 13,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [
+        "Ingredient (Cantitate)",
+        "Ingredient (Cantitate5)"
+      ],
+      "pasi": [
+        "Ygthvrgv",
+        "Ygthvrgvyi",
+        "Ygthvrgvyife",
+        "Ygthvrgvyifej"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 14,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [
+        "Ingredient (Cantitate)",
+        "Ingredient (Cantitate5)"
+      ],
+      "pasi": [
+        "Ygthvrgv",
+        "Ygthvrgvyi",
+        "Ygthvrgvyife",
+        "Ygthvrgvyifej"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 15,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [
+        "Ingredient (Cantitate)",
+        "Ingredient (Cantitate5)"
+      ],
+      "pasi": [
+        "Ygthvrgv",
+        "Ygthvrgvyi",
+        "Ygthvrgvyife",
+        "Ygthvrgvyifej"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 16,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 17,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 18,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 19,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 20,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 21,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 22,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 23,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 24,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 25,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 26,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 27,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 28,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [
+        "Yg"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 29,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [
+        "Yg"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    },
+    {
+      "id": 30,
+      "numeReteta": "Nume reteta",
+      "descriereReteta": "Descriere",
+      "ingrediente": [],
+      "pasi": [
+        "Yg"
+      ],
+      "poza": "https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/"
+    }
+  ]
+}

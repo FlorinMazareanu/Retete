@@ -1,0 +1,31 @@
+{"arrayRetete":[
+  {
+      "id": 1,
+      "numeReteta": "pizza",
+      "descriereReteta": "o reteta simpla",
+      "ingrediente": ["sos", "branza", "coca"],
+      "pasi": ["fa coca", "pune la cuptor", "scoate din cuptor"]
+  },
+  {
+      "id": 2,
+      "numeReteta": "pasta",
+      "descriereReteta": "",
+      "ingrediente": [],
+      "pasi": []
+  },
+  {
+      "id": 3,
+      "numeReteta": "mamaliga",
+      "descriereReteta": "",
+      "ingrediente": [],
+      "pasi": []
+  },
+  {
+      "id": 4,
+      "numeReteta": "friptura",
+      "descriereReteta": "",
+      "ingrediente": [],
+      "pasi": []
+  }
+]
+}
